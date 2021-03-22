@@ -1,8 +1,8 @@
 class Punic < Formula
   desc ""
   homepage ""
-  url "https://github.com/summerlabs/punic/releases/download/v0.0.4-alpha/punic.tar.gz"
-  sha256 "79ab50c52f76ef6e8bb26e5672d60bad2fa379b2aa8db6f4438bfd046df24cd1"
+  url "https://github.com/summerlabs/punic/releases/download/0.0.5-alpha/punic.tar.gz"
+  sha256 "f62d2372475c622e1b535d3bbdc12904786fc71fd7ffcee1122dfe55253a1580"
   license ""
 
 
