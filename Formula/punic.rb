@@ -2,7 +2,7 @@ class Punic < Formula
   desc ""
   homepage ""
   url "https://github.com/summerlabs/punic/releases/download/1.0.0/punic.tar.gz"
-  sha256 "443200e50ad1689757b0d6043d052acb0a28dc1a171406ef7df27f24b954d57c"
+  sha256 "cb44b8d61cb24e6cdda7ccb1ace22fa79c7c73f3a3ad2c9162bab3553569b823"
   license ""
 
 
